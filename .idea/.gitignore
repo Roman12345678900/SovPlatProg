@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+
+*.class
+*.jar
+target/
+build/
+*.log
+*.env
+credentials.json
